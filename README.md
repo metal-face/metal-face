@@ -3,9 +3,11 @@
 My name is Bryan Hughes (aka metal-face), and I am a full-stack software developer.
 
 I program using:
+- React
+- Next
+- Vue
 - JavaScript
 - TypeScript
-- Vue.js
 - Python
 - Java
 
