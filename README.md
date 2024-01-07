@@ -1,6 +1,6 @@
 # 👋🙂 Good Day 
 
-My name is Bryan Hughes (aka metal-face), and I am a full-stack software developer.
+My name is metal-face, and I am a software developer.
 
 I program using:
 - React
