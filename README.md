@@ -6,6 +6,7 @@ I program using:
 - React
 - Next
 - Vue
+- Svelte
 - JavaScript
 - TypeScript
 - Python
